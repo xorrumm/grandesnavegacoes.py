@@ -1,9 +1,6 @@
 # grandesnavegacoes.py
 fiz esse trabalho de escola em python.espero que gostem
 codigo abaixo 
-import tkinter as tk
-
-fase = 1
 
 def clicou(opcao):
     global fase
